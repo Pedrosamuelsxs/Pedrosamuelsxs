@@ -45,7 +45,7 @@
 <p align="left">
   
 <div align="center">
-  <img height="545" src="https://i.gifer.com/5yaO.gif"  />
+  <img height="500" src="https://i.gifer.com/bJk.gif"  />
 </div>
 
 ## 🔥 Skills
