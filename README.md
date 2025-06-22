@@ -20,26 +20,25 @@
   - ⚡ I really like the technology area in general, in my free time I play electronic games and listen to music.
 </details>
 
-<!-- Links -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/pedro-samuel-alencar-alves-8a14502b3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"/>
-  </a>
-  <a href="samukaws" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="30" alt="discord logo"/>
-  </a>
-  <a href="https://x.com/pedraozlx" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="30" alt="twitter logo"/>
-  </a>
-  <a href="https://www.instagram.com/pedraolz/?next=%2F" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"/>
-  </a>
-</div>
-
 
 <!-- GithubStats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrosamuelsxs&show_icons=true&theme=midnight-purple)
 
+<!-- Links -->
+<div align="left">
+  <a href="https://www.linkedin.com/in/pedro-samuel-alencar-alves-8a14502b3/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="samukaws" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
+  </a>
+  <a href="https://x.com/pedraozlx" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/pedraolz/?next=%2F" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
+  </a>
+</div>
 
 <!-- GIF -->
 <p align="left">
