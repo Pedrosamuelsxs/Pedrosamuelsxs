@@ -20,9 +20,12 @@
   - ⚡ I really like the technology area in general, in my free time I play electronic games and listen to music.
 </details>
 
+<!-- GIF pokemon-->
+<img align="right" height="171" src="https://i.gifer.com/LmPD.gif"  />
 
 <!-- GithubStats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrosamuelsxs&show_icons=true&theme=midnight-purple)
+
 
 <!-- Links -->
 <div align="left">
@@ -42,10 +45,8 @@
 <p align="left">
   
 <div align="center">
-  <img height="500" src="https://i.pinimg.com/originals/a1/d5/4a/a1d54a853aa174deeb2e47a7dfffa3c2.gif"  />
+  <img height="545" src="https://i.gifer.com/ATEd.gif"  />
 </div>
-
-</p>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
@@ -62,4 +63,5 @@
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   </div>
   
+
 
