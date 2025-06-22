@@ -1,16 +1,68 @@
-## Hi there 👋
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
 
-<!--
-**Pedrosamuelsxs/Pedrosamuelsxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Presentation -->
+<p>
+  Hi 👋, I'm Pedro! and I'm passionate about programming.
 
-Here are some ideas to get you started:
+  - 🍀 I am currently in the first period of Systems Analysis and Development.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬 Hi, I'm Pedro, a 19 year old Brazilian who is currently studying programming and English.
+
+  - ⚡ I really like the technology area in general, in my free time I play electronic games and listen to music.
+</details>
+
+<!-- Links -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-samuel-alencar-alves-8a14502b3/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"/>
+  </a>
+  <a href="samukaws" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="30" alt="discord logo"/>
+  </a>
+  <a href="https://x.com/pedraozlx" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="30" alt="twitter logo"/>
+  </a>
+  <a href="https://www.instagram.com/pedraolz/?next=%2F" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"/>
+  </a>
+</div>
+
+
+<!-- GithubStats -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrosamuelsxs&show_icons=true&theme=midnight-purple)
+
+
+<!-- GIF -->
+<p align="left">
+  
+<div align="center">
+  <img height="500" src="https://i.pinimg.com/originals/a1/d5/4a/a1d54a853aa174deeb2e47a7dfffa3c2.gif"  />
+</div>
+
+</p>
+
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
+  
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  </div>
+  
+
