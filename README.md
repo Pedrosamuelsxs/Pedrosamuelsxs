@@ -24,7 +24,7 @@
 <img align="right" height="171" src="https://i.gifer.com/LmPD.gif"  />
 
 <!-- GithubStats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrosamuelsxs&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedraozl&show_icons=true&theme=midnight-purple)
 
 
 <!-- Links -->
